@@ -1,0 +1,24 @@
+{
+ "name": "Horizen",
+ "short_name": "Horizen",
+ "description": "Discord bot with Antinuke, moderation, music and 600+ commands.",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#040203",
+ "theme_color": "#040203",
+ "lang": "en",
+ "categories": [
+  "utilities",
+  "productivity"
+ ],
+ "icons": [
+  {
+   "src": "assets/logo.webp",
+   "sizes": "320x320",
+   "type": "image/webp",
+   "purpose": "any"
+  }
+ ]
+}
